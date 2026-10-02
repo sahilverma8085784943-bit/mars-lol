@@ -1,0 +1,11 @@
+{
+  "name": "Biometric Attendance & Enrollment",
+  "description": "Face recognition attendance and user enrollment system with biometric scanner interface, role-based access, Supabase integration, and Google Drive cloud sync.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
